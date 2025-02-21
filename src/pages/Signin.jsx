@@ -3,7 +3,7 @@ import { Link, useNavigate } from "react-router-dom";
 import { HiEye, HiEyeOff } from "react-icons/hi";
 
 import LeftImage from "../assets/Left-Image.png";
-import LogoImage from "../assets/Logo.svg";
+import LogoImage from "../../src/assets/Logo.svg";
 import LoginVector from "../assets/Logo-Vector.svg";
 
 export default function Signin() {
