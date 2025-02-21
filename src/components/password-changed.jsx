@@ -1,8 +1,8 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 
-import LeftImage from "../assets/Logo.svg";
-import LogoImage from "../assets/Success-Vector.svg";
+import LeftImage from "../assets/Left-Image.png";
+import LogoImage from "../assets/Logo.svg";
 import SuccessVector from "../assets/Success-Vector.svg";
 
 export default function PasswordChanged() {
